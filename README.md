@@ -20,7 +20,7 @@
   
    <img alt="Swiper.js" src="https://img.shields.io/badge/Swiper.js-007ACC?style=flat-square&logo=swiper&logoColor=FFF" />
    <br>
- @@ -38,9 +37,8 @@
+ 
    <img alt="Python" src="https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=python&logoColor=FFF" />
   
  </p>
