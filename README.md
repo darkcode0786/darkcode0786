@@ -26,5 +26,4 @@
 
 ## 🔗 Quick Links
 
-- [**Portfolio**](https://your-portfolio-link.com)
-- [**Second GitHub**](https://github.com/your-second-profile)
+- [**Portfolio**](#)
