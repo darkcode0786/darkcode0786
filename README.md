@@ -1,30 +1,28 @@
-### What I Work With
- 
- <p>
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFE825?style=flat-square&logo=javascript&logoColor=000" />
-   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=FFF" />
-   <img alt="HTML" src="https://img.shields.io/badge/HTML-FC613B?style=flat-square&logo=html5&logoColor=FFF" />
-   <img alt="CSS" src="https://img.shields.io/badge/CSS-007ACC?style=flat-square&logo=css3&logoColor=FFF" />
-   <img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=FFF" />
-   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-007ACC?style=flat-square&logo=tailwindcss&logoColor=FFF" />
-   <img alt="Styled Components" src="https://img.shields.io/badge/Styled Components-CC6699?style=flat-square&logo=styled-components&logoColor=FFF" />
-   <br>
-   <img alt="React" src="https://img.shields.io/badge/React-007ACC?style=flat-square&logo=react&logoColor=FFF" />
-   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=FFF" />
-   <img alt="NextJS" src="https://img.shields.io/badge/NextJS-333?style=flat-square&logo=next.js&logoColor=FFF" />
-   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=FFF" />
-   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853d?style=flat-square&logo=node.js&logoColor=FFF" />
-   
- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=FFF" />
-  
-   <img alt="Swiper.js" src="https://img.shields.io/badge/Swiper.js-007ACC?style=flat-square&logo=swiper&logoColor=FFF" />
-   <br>
- 
-   <img alt="Python" src="https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=python&logoColor=FFF" />
-  
- </p>
- 
- ### Quick links
- 
- [![portfolio](https://img.shields.io/badge/portfolio-222?style=for-the-badge&logo=dev.to&logoColor=white)](#)
+# Hi, I'm Irfan Khan 👋
+
+## 🚀 What I Work With
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-db7093?style=flat&logo=styled-components&logoColor=white)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+---
+
+## 🔗 Quick Links
+
+- [**Portfolio**](https://your-portfolio-link.com)
+- [**Second GitHub**](https://github.com/your-second-profile)
