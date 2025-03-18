@@ -15,7 +15,7 @@
    <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=FFF" />
    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853d?style=flat-square&logo=node.js&logoColor=FFF" />
    
- 
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=FFF" />
   
    <img alt="Swiper.js" src="https://img.shields.io/badge/Swiper.js-007ACC?style=flat-square&logo=swiper&logoColor=FFF" />
