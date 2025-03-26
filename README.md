@@ -26,4 +26,4 @@
 
 ## 🔗 Quick Links
 
-- [**Portfolio- Irfan**]([#](https://irfank.vercel.app/))
+- [**Portfolio- Irfan**](https://irfank.vercel.app/)
